@@ -12,3 +12,6 @@ func main() {
 	c := 4
 	fmt.Println(a, b, c)
 }
+
+//Println->prints in next line
+//Print  ->prints in same line
